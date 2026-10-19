@@ -1,0 +1,2 @@
+# premium-roundwood-001-roundwood-timber-frame-joint-p
+Stop guessing joinery angles and wasting expensive logs — the Roundwood Timber Frame Joint Planner turns your Notion workspace into a precision joinery design system.  This template solves the pain of visualizing and documenting complex roundwood joints by providing a structured database of connection types, automated angle calculations based on lo
